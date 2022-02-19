@@ -11,6 +11,7 @@ const IndexPage = () => {
             <Header text='This is main text' subText='this is subtext'></Header>
        <h1> Al Siraj Petroleum </h1>
        <Link to='/Sales'>Sales</Link>
+       <Link to='/my-dynamic-page'>Dynamic pages created at Build Time</Link>
             </LayOut>
       
        </div>
